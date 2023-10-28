@@ -1,0 +1,6 @@
+name: ScrollPlugin
+version: '1.0'
+main: me.necron.scrollplugin.ScrollPlugin
+commands:
+  spawn:
+  fly:
